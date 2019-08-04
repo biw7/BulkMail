@@ -1,5 +1,5 @@
 # BulkMail
-Simple mass mail sender in bash with ssmtp command line.
+Very simple mass mail sender in bash with ssmtp command line.
 
 Install:
 apt-get install ssmtp
